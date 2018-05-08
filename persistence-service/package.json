@@ -1,0 +1,24 @@
+{
+  "name": "persistence-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "express-logging": "^1.1.1",
+    "logops": "^2.1.0",
+    "mongoose": "^5.0.17"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
